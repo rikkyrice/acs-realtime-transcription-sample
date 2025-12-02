@@ -16,9 +16,7 @@ This is a sample application demonstrated during Microsoft Ignite 2024. It highl
 
 ## Before running the sample for the first time
 
-1. Open an instance of PowerShell, Windows Terminal, Command Prompt or equivalent and navigate to the directory that you would like to clone the sample to.
-2. git clone `https://github.com/Azure-Samples/communication-services-python-quickstarts.git`.
-3. Navigate to `callautomation-azure-openai-voice` folder and open `main.py` file.
+clone this repository first.
 
 ### Setup the Python environment
 
