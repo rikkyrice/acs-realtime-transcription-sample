@@ -2,6 +2,10 @@
 
 This is a sample application demonstrated during Microsoft Ignite 2024. It highlights an integration of Azure Communication Services with Azure OpenAI Service to enable intelligent conversational agents.
 
+## Quiita Docs
+
+[Azure Communication ServiceでAI応答を文字起こしする](https://qiita.com/rikkyrice/items/14ed89bf93e09e67daa1)
+
 ## Prerequisites
 
 - An Azure account with an active subscription. [Create an account for free](https://azure.microsoft.com/free/?WT.mc_id=A261C142F).
