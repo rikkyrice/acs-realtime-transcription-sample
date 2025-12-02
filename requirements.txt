@@ -1,0 +1,7 @@
+Quart>=0.19.6
+azure-eventgrid==4.11.0
+aiohttp>= 3.11.9
+azure-cognitiveservices-speech==1.43.0 
+azure-communication-callautomation==1.5.0
+openai[realtime]
+certifi==2025.1.31
